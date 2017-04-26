@@ -10,3 +10,7 @@
 ## 腾讯
 * 在[官方招聘网站](http://hr.tencent.com/)选择3个你想入职的岗位。
 * 将想要入职的岗位（如：SNG12-腾讯云web前端开发（深圳））和简历一起发到 alsotang@tencent.com ，抄送 alsotang@gmail.com。
+
+## 网易
+* 在[官方招聘网站](http://hr.163.com/)挑选自己心仪的职位。
+* 把您想投递的职位链接以及您的姓名、电话和简历发到邮箱 hihwei@163.com
